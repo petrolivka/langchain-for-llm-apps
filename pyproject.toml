@@ -10,5 +10,6 @@ dependencies = [
     "langchain-community>=0.3.16",
     "langchain-core>=0.3.33",
     "openai>=1.61.0",
+    "pandas>=2.2.3",
     "python-dotenv>=1.0.1",
 ]
